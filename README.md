@@ -38,7 +38,7 @@ Admin Panel modules, reusable components and API integration.
 ## 📫 Connect With Me
 
 - Email: jpavankumarreddy737@gmail.com
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/j-pavan-kumar-reddy/
 
 ---
 
